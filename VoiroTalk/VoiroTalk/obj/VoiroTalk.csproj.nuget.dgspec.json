@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\repos\\FictionHorizon\\VoiroTalk\\VoiroTalk\\VoiroTalk.csproj": {}
+    "C:\\Users\\しろーん\\source\\repos\\FictionHorizon\\VoiroTalk\\VoiroTalk\\VoiroTalk.csproj": {}
   },
   "projects": {
-    "C:\\repos\\FictionHorizon\\VoiroTalk\\VoiroTalk\\VoiroTalk.csproj": {
+    "C:\\Users\\しろーん\\source\\repos\\FictionHorizon\\VoiroTalk\\VoiroTalk\\VoiroTalk.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\repos\\FictionHorizon\\VoiroTalk\\VoiroTalk\\VoiroTalk.csproj",
+        "projectUniqueName": "C:\\Users\\しろーん\\source\\repos\\FictionHorizon\\VoiroTalk\\VoiroTalk\\VoiroTalk.csproj",
         "projectName": "VoiroTalk",
-        "projectPath": "C:\\repos\\FictionHorizon\\VoiroTalk\\VoiroTalk\\VoiroTalk.csproj",
+        "projectPath": "C:\\Users\\しろーん\\source\\repos\\FictionHorizon\\VoiroTalk\\VoiroTalk\\VoiroTalk.csproj",
         "packagesPath": "C:\\Users\\しろーん\\.nuget\\packages\\",
-        "outputPath": "C:\\repos\\FictionHorizon\\VoiroTalk\\VoiroTalk\\obj\\",
+        "outputPath": "C:\\Users\\しろーん\\source\\repos\\FictionHorizon\\VoiroTalk\\VoiroTalk\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -2,12 +2,5 @@
 # この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
 ################################################################################
 
-/VoiroTalk/VoiroTalk/bin/Debug/netcoreapp3.1
-VoiroTalk/.vs/VoiroTalk/v16/.suo
-*.v2
-VoiroTalk/VoiroTalk/bin/
-*.cache
-*.txt
-*.dll
-*.exe
-*.pdb
+/FictionHorizon/.vs/
+/FictionHorizon/VoiroTalk/.vs

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoiroTalk", "VoiroTalk\VoiroTalk.csproj", "{3709B751-3494-4883-828A-B38FD898F9BD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoiroTalk", "VoiroTalk\VoiroTalk.csproj", "{B192C033-4204-4A73-9B60-1D3176203FB2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3709B751-3494-4883-828A-B38FD898F9BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3709B751-3494-4883-828A-B38FD898F9BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3709B751-3494-4883-828A-B38FD898F9BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3709B751-3494-4883-828A-B38FD898F9BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B192C033-4204-4A73-9B60-1D3176203FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B192C033-4204-4A73-9B60-1D3176203FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B192C033-4204-4A73-9B60-1D3176203FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B192C033-4204-4A73-9B60-1D3176203FB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {785ABC29-6F3C-414F-AF4A-108AC95B1C99}
+		SolutionGuid = {E9A2CDB4-232C-4888-B979-95BCB161616B}
 	EndGlobalSection
 EndGlobal
