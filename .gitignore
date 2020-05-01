@@ -3,4 +3,7 @@
 ################################################################################
 
 /FictionHorizon/.vs/
-/FictionHorizon/VoiroTalk/.vs
+/FictionHorizon/VoiroTalk/.vs/
+/VoiroTalk/.vs/VoiroTalk
+/VoiroTalk/VoiroTalk/Const/AuthConst.cs
+/VoiroTalk/VoiroTalk/bin/Debug/netcoreapp3.1
