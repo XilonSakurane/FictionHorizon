@@ -7,7 +7,7 @@ namespace VoiroTalk.Const
     /// <summary>
     /// 認証関係定数クラステンプレート
     /// </summary>
-    public class AuthConstException
+    public class AuthConstExample
     {
         /// <summary>
         /// トークン情報
