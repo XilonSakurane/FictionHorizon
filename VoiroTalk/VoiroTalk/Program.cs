@@ -15,7 +15,6 @@ namespace VoiroTalk
         public static DiscordSocketClient _client;
         public static CommandService _commands;
         public static IServiceProvider _services;
-        public static MessageRecived _recived;
         static void Main(string[] args) => new Program().MainAsync().GetAwaiter().GetResult();
 
         /// <summary>
@@ -27,7 +26,6 @@ namespace VoiroTalk
             _client = new DiscordSocketClient();
             _commands = new CommandService();
             _services = new ServiceCollection().BuildServiceProvider();
-            _recived = new MessageRecived();
             
             _client.MessageReceived += CommandRecieved;
             _client.Log += Log;
@@ -53,7 +51,7 @@ namespace VoiroTalk
             if (message.Author.IsBot) return;
 
             // デバッグ用メッセージを出力
-            Console.WriteLine("{0} {1}:{2}", message.Channel.Name, message.Author.Username);
+            Console.WriteLine("{0} {1}:{2}", message.Channel.Name, message.Author.Username, message);
 
             int argPos = 0;
 
