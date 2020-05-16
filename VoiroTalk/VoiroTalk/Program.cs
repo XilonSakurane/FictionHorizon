@@ -1,4 +1,5 @@
 ﻿using Discord;
+using Discord.Audio;
 using Discord.Commands;
 using Discord.WebSocket;
 using Microsoft.Extensions.DependencyInjection;
@@ -15,6 +16,8 @@ namespace VoiroTalk
         public static DiscordSocketClient _client;
         public static CommandService _commands;
         public static IServiceProvider _services;
+        
+
         static void Main(string[] args) => new Program().MainAsync().GetAwaiter().GetResult();
 
         /// <summary>
